@@ -11,6 +11,7 @@ This is project is a simple template for begin shortly a project with [LESS](htt
 	```sh
 	$ sudo npm install
 	```
+
 * You need install Livereload extension:
 
 	* [Firefox](https://addons.mozilla.org/es/firefox/addon/livereload/)
