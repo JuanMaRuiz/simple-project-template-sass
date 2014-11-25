@@ -1,0 +1,26 @@
+{
+  "name": "simple-project-templae",
+  "version": "1.0.0",
+  "description": "Simple Project Template",
+  "main": "index.html",
+  "scripts": {
+    "test": "a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://juanmaruiz@bitbucket.org/juanmaruiz/dashboard.git"
+  },
+  "keywords": [
+    "CRT",
+    "dashboard"
+  ],
+  "author": "JuanMa Ruiz",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.8.0",
+    "grunt-contrib-less": "^0.12.0",
+    "grunt-contrib-livereload": "^0.1.2",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
