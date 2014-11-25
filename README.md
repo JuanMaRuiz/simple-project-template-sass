@@ -25,10 +25,10 @@ This is project is a simple template for begin shortly a project with [LESS](htt
 	$ grunt
 	```
 
-	
+
 * Visit [localhost:9000](localhost:9000) to see your project
 
 License
-----
+-------
 
 [MIT](http://opensource.org/licenses/MIT)
