@@ -60,5 +60,3 @@ License
 -------
 
 [MIT](http://opensource.org/licenses/MIT)
-=======
-Based in this [Tust+ tutorial](https://code.tutsplus.com/tutorials/build-a-contacts-manager-using-backbonejs-part-1--net-24277)
