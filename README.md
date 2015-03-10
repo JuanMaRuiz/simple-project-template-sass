@@ -1,4 +1,4 @@
-Build a Contacts Manager Using Backbone.js
+Simple Project Template
 =======================
 
 ### Version
