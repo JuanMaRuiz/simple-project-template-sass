@@ -1,5 +1,10 @@
-Simple Project Template
+Build a Contacts Manager Using Backbone.js
 =======================
+
+### Version
+0.0.2
+
+> Grunt task watch has been updated. It's not necessary grunt-contrib-livereload package. 
 
 This is project is a simple template for begin shortly a project with [LESS](http://lesscss.org/) and [LiveReload](https://www.npmjs.org/package/livereload) preconfigured.
 
@@ -11,6 +16,7 @@ This is project is a simple template for begin shortly a project with [LESS](htt
 	```sh
 	$ sudo npm install
 	```
+	> Maybe you'll need to run npm install grunt-contrib-watch to get the last version of grunt-contrib-watch package. [More info](https://github.com/gruntjs/grunt-contrib-watch)
 
 * You need install Livereload extension:
 
@@ -54,3 +60,5 @@ License
 -------
 
 [MIT](http://opensource.org/licenses/MIT)
+=======
+Based in this [Tust+ tutorial](https://code.tutsplus.com/tutorials/build-a-contacts-manager-using-backbonejs-part-1--net-24277)
