@@ -13,13 +13,16 @@ module.exports = function (grunt) {
 			development: {
 				options: {
 					paths: ["./css"],
-					compress: false
+					compress: true
 				},
 			files: {
 				"./public/css/style.css": "./less/style.less"
 			}
 		},
 	},
+  jshint: {
+    all: ['Gruntfile.js', 'public/**/*.js']
+  },
     watch: {
       project: {
         files: ['public/**/*.js', 'public/**/*.html', 'public/**/*.json','public/**/*.css', './less/*.less'],
@@ -34,8 +37,9 @@ module.exports = function (grunt) {
 
   grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-contrib-less');
+  grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-watch');
 
-  grunt.registerTask('default', ['connect', 'less', 'watch']);
+  grunt.registerTask('default', ['connect', 'less', 'jshint','watch']);
 
 };

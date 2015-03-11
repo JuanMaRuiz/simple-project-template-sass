@@ -2,11 +2,15 @@ Simple Project Template
 =======================
 
 ### Version
-0.0.2
+0.1.0
 
-> Grunt task watch has been updated. It's not necessary grunt-contrib-livereload package. 
+> Grunt task watch has been updated. Now it's not necessary grunt-contrib-livereload package. 
 
-This is project is a simple template for begin shortly a project with [LESS](http://lesscss.org/) and [LiveReload](https://www.npmjs.org/package/livereload) preconfigured.
+This is project is a simple template for begin shortly a project with:
+
+* [LESS](http://lesscss.org/)
+* [LiveReload](https://www.npmjs.org/package/livereload) preconfigured.
+* [Jshint](http://jshint.com/docs/) preconfigured as default task.
 
 ## Instalation
 
@@ -36,7 +40,7 @@ This is project is a simple template for begin shortly a project with [LESS](htt
 
 ## What do you get?
 
-Directory structure:
+Project structure:
 
 ```
 .
@@ -46,15 +50,13 @@ Directory structure:
 │   ├── js
 │   └── index.html
 ├── .gitignore
+├── .jshintrc
 ├── Gruntfile.js
 ├── package.json
 ├── README.md
 
 ```
-## To do's
 
-* Add [Bower](http://bower.io/) for manage dependencies.
-* Create a [Yeoman generator](http://yeoman.io/generators/).
 
 License
 -------

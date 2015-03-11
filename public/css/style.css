@@ -1,13 +1,1 @@
-body {
-  font-family: "Helvetica", Arial, sans-serif;
-  background-color: #f3f3f3;
-  color: #333;
-}
-
-section {
-	width: 70%;
-	background-color: #e3e3e3;
-	margin: 20px auto;
-	padding: 5%;
-	text-align: center;
-}
+body{font-family:"Helvetica",Arial,sans-serif;background-color:#f3f3f3;color:#333}section{width:70%;background-color:#e3e3e3;margin:20px auto;padding:5%;text-align:center}
