@@ -28,7 +28,7 @@ module.exports = function (grunt) {
         files: ['public/**/*.js', 'public/**/*.html', 'public/**/*.json','public/**/*.css', './less/*.less'],
         tasks: ["less"],
         options: {
-          reload: true
+          livereload: true
         },
         
       },

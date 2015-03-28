@@ -4,7 +4,7 @@ Simple Project Template
 ### Version
 0.1.0
 
-> Grunt task watch has been updated. Now it's not necessary grunt-contrib-livereload package. 
+> Grunt task watch has been updated and now have livereload support built-in. Now it's not necessary grunt-contrib-livereload package. 
 
 This is project is a simple template for begin shortly a project with:
 
