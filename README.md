@@ -8,7 +8,7 @@ Simple Project Template
 
 This is project is a simple template for begin shortly a project with:
 
-* [LESS](http://lesscss.org/)
+* [SASS](http://sass-lang.com/guide)
 * [LiveReload](https://www.npmjs.org/package/livereload) preconfigured.
 * [Jshint](http://jshint.com/docs/) preconfigured as default task.
 
@@ -44,7 +44,7 @@ Project structure:
 
 ```
 .
-├── less
+├── scss
 ├── public
 │   ├── css
 │   ├── js
