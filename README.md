@@ -1,8 +1,10 @@
+![dependencies status](https://david-dm.org/JuanMaRuiz/simple-project-template-sass.svg)
+![project version](https://img.shields.io/badge/version-0.1.1-green.svg)
 Simple Project Template
 =======================
 
 ### Version
-0.1.0
+0.1.1
 
 > Grunt task watch has been updated and now have livereload support built-in. Now it's not necessary grunt-contrib-livereload package.
 
